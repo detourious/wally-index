@@ -1,5 +1,5 @@
 {
-    "api": "http://localhost:8000",
+    "api": "https://wally-api.deto.lol",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
