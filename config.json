@@ -1,5 +1,5 @@
 {
-    "api": "https://wally-api.deto.lol",
+    "api": "https://api.deto.lol",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
